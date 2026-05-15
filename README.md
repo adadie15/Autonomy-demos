@@ -4,7 +4,9 @@ This serves as an index repo for various autonomy demos. Each demo is a simulati
 
 ## Demos
 
-### [Rocket Landing with SQP and Obstacle Avoidance with Barrir Functions]
+### Rocket Landing with SQP and Obstacle Avoidance with Barrir Functions
+
+![Rocket Landing](https://andrewadie.com/wp-content/uploads/2026/05/Autonomous_Rocket_Landing.gif)
 
 Mk I : Sequential Quadratic Programming (SQP). A rocket descending to gentle vertical landing while avoiding an obstacle represented as a barrier function. Convergest in ~50 iterations.
 
